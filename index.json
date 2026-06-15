@@ -5,7 +5,7 @@
   "repoDescription": "Official community scripts and templates for KubeJS GUI 2",
   "entries": [
     {
-      "name": "cutting",
+      "name": "comptest",
       "author": "me",
       "version": "1.0.0",
       "type": "server",
