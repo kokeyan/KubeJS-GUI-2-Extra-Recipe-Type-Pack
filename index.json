@@ -10,7 +10,7 @@
       "version": "1.0.0",
       "type": "server",
       "description": "cutting ig",
-      "path": "cutting.kubeguitemplate",
+      "path": "comptest.kubeguitemplate",
       "tags": ["create", "fix", "recipe"]
     },
     {
