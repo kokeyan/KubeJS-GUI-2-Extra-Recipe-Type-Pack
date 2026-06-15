@@ -8,7 +8,7 @@
       "name": "comptest",
       "author": "me",
       "version": "1.0.0",
-      "type": "server",
+      "type": "template",
       "description": "cutting ig",
       "path": "comptest.kubeguitemplate",
       "tags": ["create", "fix", "recipe"]
