@@ -8,7 +8,7 @@
       "name": "Shaped - Minecraft",
       "author": "kokeyan",
       "version": "1.0.0",
-      "type": "server",
+      "type": "template",
       "description": "Shaped Type",
       "path": "Shaped.kubeguitemplate",
       "tags": ["Minecraft", "shaped", "recipe"]
@@ -17,7 +17,7 @@
       "name": "Shapeless - Minecraft",
       "author": "kokeyan",
       "version": "1.0.0",
-      "type": "server",
+      "type": "template",
       "description": "Shapeless Type",
       "path": "Shapeless.kubeguitemplate",
       "tags": ["Minecraft", "shapeless", "recipe"]
