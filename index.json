@@ -1,26 +1,26 @@
 {
-  "repoName": "KubeJS GUI Official Templates",
-  "repoAuthor": "StreetCan",
+  "repoName": "KubeJS GUI 2 Extra Recipe Type Pack",
+  "repoAuthor": "kokeyan",
   "repoVersion": "1.0.0",
-  "repoDescription": "Official community scripts and templates for KubeJS GUI 2",
+  "repoDescription": "Best Recipe type base pack for KubeJS GUI 2",
   "entries": [
     {
-      "name": "[Place Holder]Create Compacting",
-      "author": "me",
+      "name": "Shaped - Minecraft",
+      "author": "kokeyan",
       "version": "1.0.0",
       "type": "template",
-      "description": "Simple Compacting Template",
-      "path": "compacting.kubeguitemplate",
-      "tags": ["create", "fix", "recipe"]
+      "description": "Shaped Type",
+      "path": "Shaped.kubeguitemplate",
+      "tags": ["Minecraft", "shaped", "recipe"]
     },
     {
-      "name": "[Place Holder]Create Mixing Heated",
-      "author": "someone",
+      "name": "Shapeless - Minecraft",
+      "author": "kokeyan",
       "version": "1.0.0",
       "type": "template",
-      "description": "Mixing bowl recipe template with heat requirement",
-      "path": "templates/create/mixing_heated.kubeguitemplate",
-      "tags": ["create", "template", "mixing"]
+      "description": "Shapeless Type",
+      "path": "Shapeless.kubeguitemplate",
+      "tags": ["Minecraft", "shapeless", "recipe"]
     }
   ]
 }
