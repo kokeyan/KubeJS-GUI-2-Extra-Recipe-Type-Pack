@@ -12,7 +12,7 @@ Smoking (+XP)<br>
 Stone Cutting<br>
 (Coming soon: Brewing By MoreJS)<br>
 ・Create<br>
-Coming soon
+Coming soon<br>
 ・TFMG<br>
 TBD<br>
 ・Mekanism<br>
