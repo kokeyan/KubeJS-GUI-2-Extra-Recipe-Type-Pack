@@ -10,7 +10,19 @@ Smelting (+XP)<br>
 Blasting (+XP)<br>
 Smoking (+XP)<br>
 Stone Cutting<br>
-
+(Coming soon: Brewing By MoreJS)<br>
+・Create<br>
+Coming soon
+・TFMG<br>
+TBD<br>
+・Mekanism<br>
+Coming soon...?<br>
+・Immersive Engineering<br>
+TBD<br>
+・TaCZ<br>
+Coming soon...?<br>
+・Farmer's Delight<br>
+TBD<br>
 
 ※This is Beta<br>
 By the way, I'm Japanese. So, I can't read English.
