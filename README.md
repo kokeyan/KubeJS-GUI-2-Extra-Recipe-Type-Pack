@@ -13,3 +13,4 @@ Stone Cutting<br>
 
 
 ※This is Beta<br>
+By the way, I'm Japanese. So, I can't read English.
