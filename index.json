@@ -30,6 +30,69 @@
       "description": "Smithing Type",
       "path": "Smithing.kubeguitemplate",
       "tags": ["Minecraft", "smithing", "recipe"]
+    },
+    {
+      "name": "Smelting_Nomal - Minecraft",
+      "author": "kokeyan",
+      "version": "1.0.0",
+      "type": "template",
+      "description": "Smelting Type(No XP)",
+      "path": "Smelting.kubeguitemplate",
+      "tags": ["Minecraft", "smelting", "recipe"]
+    },
+    {
+      "name": "Smelting_XP - Minecraft",
+      "author": "kokeyan",
+      "version": "1.0.0",
+      "type": "template",
+      "description": "Smelting Type(XP)",
+      "path": "Smelting_XP.kubeguitemplate",
+      "tags": ["Minecraft", "smelting", "recipe"]
+    },
+    {
+      "name": "Blasting_Nomal - Minecraft",
+      "author": "kokeyan",
+      "version": "1.0.0",
+      "type": "template",
+      "description": "Blasting Type(No XP)",
+      "path": "blasting.kubeguitemplate",
+      "tags": ["Minecraft", "blasting", "recipe"]
+    },
+    {
+      "name": "Blasting_XP - Minecraft",
+      "author": "kokeyan",
+      "version": "1.0.0",
+      "type": "template",
+      "description": "Blasting Type(XP)",
+      "path": "Blasting_XP.kubeguitemplate",
+      "tags": ["Minecraft", "blasting", "recipe"]
+    }
+    {
+      "name": "Smoking_Nomal - Minecraft",
+      "author": "kokeyan",
+      "version": "1.0.0",
+      "type": "template",
+      "description": "Smoking Type(No XP)",
+      "path": "Smoking.kubeguitemplate",
+      "tags": ["Minecraft", "smoking", "recipe"]
+    },
+    {
+      "name": "Smoking_XP - Minecraft",
+      "author": "kokeyan",
+      "version": "1.0.0",
+      "type": "template",
+      "description": "Smoking Type(XP)",
+      "path": "Smoking_XP.kubeguitemplate",
+      "tags": ["Minecraft", "smoking", "recipe"]
+    },
+    {
+      "name": "Stone_Cutting - Minecraft",
+      "author": "kokeyan",
+      "version": "1.0.0",
+      "type": "template",
+      "description": "Stone Cutting Type",
+      "path": "StoneCutting.kubeguitemplate",
+      "tags": ["Minecraft", "stonecutting", "recipe"]
     }
   ]
 }
