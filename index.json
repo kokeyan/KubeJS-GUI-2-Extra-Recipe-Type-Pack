@@ -21,6 +21,15 @@
       "description": "Shapeless Type",
       "path": "Shapeless.kubeguitemplate",
       "tags": ["Minecraft", "shapeless", "recipe"]
+    },
+    {
+      "name": "Smithing - Minecraft",
+      "author": "kokeyan",
+      "version": "1.0.0",
+      "type": "template",
+      "description": "Smithing Type",
+      "path": "Smithing.kubeguitemplate",
+      "tags": ["Minecraft", "smithing", "recipe"]
     }
   ]
 }
