@@ -1,4 +1,6 @@
-# KubeJS-GUI-2-Community-Scripts
-Community uploaded scripts for the KubeJS GUI 2 mod
+# KubeJS-GUI-2-Extra-Recipe-Type-Pack
+This project is forked from StreetCan/KubeJS-GUI-2-Community-Scripts.
+Note that the license for this project complies with the original project.
 
-Currently only for testing, if you are seeing this you can expect a much better GUI for KubeJS, users will be able to upload and share scripts and recipe templates. Stay tuned 
+This pack provides bases compatible with the following crafting types:
+[Currently under development.]
